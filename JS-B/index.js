@@ -1,1 +1,2 @@
 // Promise
+// Promise.map
